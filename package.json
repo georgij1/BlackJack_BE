@@ -23,6 +23,10 @@
     "express-ws": "^5.0.2",
     "node-localstorage": "^3.0.5",
     "socket.io": "^4.7.2",
-    "store2": "^2.14.2"
+    "store2": "^2.14.2",
+    "ws": "^8.14.2"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^5.0.10"
   }
 }
